@@ -22,7 +22,7 @@ Para responder esta pregunta se construyó un modelo de puntuación basado en di
 
 El proyecto utiliza tres tablas principales:
 
-### Editions
+### WC_all_Editions
 
 Contiene información histórica de las Copas del Mundo disputadas entre 1930 y 2022.
 
